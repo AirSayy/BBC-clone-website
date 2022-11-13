@@ -1,0 +1,180 @@
+body{
+    font-family: Arial, Helvetica, freesans, "sans-serif";
+    background-color: silver;
+    
+}
+nav{
+    height: 30px;
+    background: black;
+    color: white;
+    border-radius: 5px;
+    box-shadow: 2px 2px 4px black;
+}
+li{font-size: 12px;
+    font-weight: bold;
+    width:7%;
+    float: left;
+    list-style: none;
+    margin-left: 5px;
+    margin-right: 2px;
+    padding:10px 0px 10px 5px;
+    border-right: 1px solid rgba(197, 178, 178,0.3);
+    
+    
+}
+li a{
+    color: white;
+    text-decoration: none;
+}
+li a:hover{
+    
+    color: blanchedalmond;
+    text-decoration: underline;
+}
+.bbc{
+    width: 8%;
+    height: 10px;
+    margin-left: -40px;
+    
+}
+.bbc1{
+    border-right: 1px solid rgba(197, 178, 178,0.3);
+    object-fit: contain;
+    margin-top:-7px ;
+    margin-right: 10px; 
+}
+.signin{
+    width: 10%;
+    height: 10px;
+    
+}
+.signin1{
+    object-fit: contain;
+    margin-top:-8px ;
+    margin-right: 10px;
+}
+.search{
+    padding: 1px;
+    border-right: 1px solid rgba(197, 178, 178,0.3);
+    margin-top:1px ;
+    margin-right: 10px;
+    width: 120px;
+      
+}
+/* container grid*/
+
+*{
+    box-sizing: border-box;
+}  
+ .container>section{        
+    width:49%;
+    height: 450px;
+    margin: 5px;
+    float: left;
+    border-radius: 7px;
+    box-shadow: 2.5px 2.5px 4px black;
+    
+    
+}
+
+.four.canada{
+    height:222px ;
+    width: 24.3%;
+    float: left;
+    margin: 5px;
+}
+
+.news section{
+    width:32.5%;
+    height: 380px;
+    padding: 3px;
+    float: left;
+    font-size: 12px;
+    margin-left: 10px;
+    border-radius: 7px;
+    box-shadow: 2.5px 2.5px 4px black;
+    
+    
+}
+.news section a{
+    color: black;
+    text-decoration: none;
+    border-left: 3px solid red;
+    padding-left: 3px;
+}
+.headnews{
+background-image: url("C:/Users/airsay/Desktop/BBC/BBC-ASSETS/israel-uae.jpg");
+background-repeat: no-repeat;
+background-size: cover;
+}
+div{
+  color: white;  
+}
+
+.headnews div{
+margin:325px 0 0 10px;
+
+}
+.headnews a, .four a{
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 12px;
+    border-left: 3px solid red;
+    padding-left:5px ;
+}
+
+.four2{
+    margin: 125px 5px;
+    padding: 5px;
+    background-color:rgba(17, 11, 11,-1);
+}
+.victor
+{
+    background-image: url("C:/Users/airsay/Desktop/BBC/BBC-ASSETS/victor jara.jpg");
+background-repeat: no-repeat;
+background-size: cover;
+}
+.productivity
+{
+    background-image: url("C:/Users/airsay/Desktop/BBC/BBC-ASSETS/productivity.jpg");
+background-repeat: no-repeat;
+background-size: cover;
+}
+.flag{
+    background-image: url("C:/Users/airsay/Desktop/BBC/BBC-ASSETS/america-canada.jpg");
+background-repeat: no-repeat;
+background-size: cover;
+}
+.health{
+    background-image: url("C:/Users/airsay/Desktop/BBC/BBC-ASSETS/vaccine.jpg");
+background-repeat: no-repeat;
+background-size: cover;
+}
+.new2 .h2{
+    display: inline-block;
+    margin: 10px 2px;
+    font-weight: bold;
+    font-size: 20px;
+    border-left: 3px solid red;
+    padding-left:10px;
+}
+
+.biden2,.belarus2,.trump2{
+    width: 100%;
+    height: 250px;
+    object-fit: contain;
+}
+.header4{
+    display: inline-block;
+    margin-right: 90px;
+}
+
+
+.calender{
+    display: inline-block;
+    margin-left: 890px;
+    color:grey;
+}
+
+
