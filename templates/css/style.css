@@ -103,7 +103,7 @@ li a:hover{
     padding-left: 3px;
 }
 .headnews{
-background-image: url("C:/Users/airsay/Desktop/BBC/BBC-ASSETS/israel-uae.jpg");
+background-image: url("BBC/BBC-ASSETS/israel-uae.jpg");
 background-repeat: no-repeat;
 background-size: cover;
 }
@@ -131,23 +131,23 @@ margin:325px 0 0 10px;
 }
 .victor
 {
-    background-image: url("C:/Users/airsay/Desktop/BBC/BBC-ASSETS/victor jara.jpg");
+    background-image: url("BBC/BBC-ASSETS/victor jara.jpg");
 background-repeat: no-repeat;
 background-size: cover;
 }
 .productivity
 {
-    background-image: url("C:/Users/airsay/Desktop/BBC/BBC-ASSETS/productivity.jpg");
+    background-image: url("BBC/BBC-ASSETS/productivity.jpg");
 background-repeat: no-repeat;
 background-size: cover;
 }
 .flag{
-    background-image: url("C:/Users/airsay/Desktop/BBC/BBC-ASSETS/america-canada.jpg");
+    background-image: url("BBC/BBC-ASSETS/america-canada.jpg");
 background-repeat: no-repeat;
 background-size: cover;
 }
 .health{
-    background-image: url("C:/Users/airsay/Desktop/BBC/BBC-ASSETS/vaccine.jpg");
+    background-image: url("BBC/BBC-ASSETS/vaccine.jpg");
 background-repeat: no-repeat;
 background-size: cover;
 }
