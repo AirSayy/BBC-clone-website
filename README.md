@@ -8,6 +8,6 @@ A Cloned BBC website front page.
 
 ## How It's Made:
 
-**Tech used:** HTML, CSS
+**Tech used:** HTML and CSS
 
 
